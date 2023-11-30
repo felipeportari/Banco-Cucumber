@@ -20,5 +20,5 @@ Projeto de teste utilizando Cucumber e JUnit para realizar testes de aceitação
 Use a classe `Runner.java` para executar os testes.
 
 ## Resultado
-Ao rodar o projeto, retornará assim no console:
-![image](https://github.com/felipeportari/Banco-Cucumber/assets/124217908/234d9a2e-94f3-49fb-96d0-72073f5431b9)
+- Ao rodar o projeto, retornará assim no console:
+- ![image](https://github.com/felipeportari/Banco-Cucumber/assets/124217908/234d9a2e-94f3-49fb-96d0-72073f5431b9)
